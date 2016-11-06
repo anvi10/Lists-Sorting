@@ -1,0 +1,1299 @@
+[master 1accb98] 0 of 100
+ Committer: CS24000 Account <cs240@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 15 files changed, 26 insertions(+), 328 deletions(-)
+ delete mode 100755 problems/irc-server-src/IRCServer
+ delete mode 100644 problems/irc-server-src/diff.out
+ delete mode 100644 problems/irc-server-src/prog.org.out
+ delete mode 100644 problems/irc-server-src/prog.out
+ delete mode 100644 problems/irc-server-src/talk-server.out
+ delete mode 100644 problems/irc-server-src/total.out
+ delete mode 100644 problems/mysort-src/diff.out
+ delete mode 100755 problems/mysort-src/mytest
+ delete mode 100644 problems/mysort-src/mytest.org.out
+ delete mode 100644 problems/mysort-src/mytest.out
+ delete mode 100644 problems/mysort-src/none
+ delete mode 100644 problems/mysort-src/total.out
+ delete mode 100644 problems/mysort-src/total.txt
+[master ed26959] 0 of 100
+ Committer: CS24000 Account <cs240@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 5 deletions(-)
+[master 1d17844] 0 of 100
+ Committer: CS24000 Account <cs240@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 9 files changed, 28 insertions(+), 274 deletions(-)
+ delete mode 100755 problems/irc-server-src/IRCServer
+ delete mode 100644 problems/irc-server-src/diff.out
+ delete mode 100644 problems/irc-server-src/prog.org.out
+ delete mode 100644 problems/irc-server-src/prog.out
+ delete mode 100644 problems/irc-server-src/talk-server.out
+ delete mode 100644 problems/irc-server-src/total.out
+[master 1b59e27] 0 of 100
+ Committer: CS24000 Account <cs240@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 27 insertions(+), 1 deletion(-)
+[master 9374cd9] 0 of 100
+ Committer: CS24000 Account <cs240@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 20 insertions(+), 1 deletion(-)
+ create mode 100644 problems/arraylist-src/total.out
+[master ab801c8] 0 of 100
+ Committer: CS24000 Account <cs240@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 27 files changed, 21 insertions(+), 1624 deletions(-)
+ delete mode 100644 problems/irc-server-src/.local.git.out
+ delete mode 100644 problems/irc-server-src/.local.total.out
+ delete mode 100644 problems/irc-server-src/IRCServer.cc
+ delete mode 100644 problems/irc-server-src/IRCServer.h
+ delete mode 100755 problems/irc-server-src/IRCServer.org
+ delete mode 100755 problems/irc-server-src/Makefile
+ delete mode 100755 problems/irc-server-src/TestIRCServer
+ delete mode 100644 problems/irc-server-src/none
+ delete mode 100644 problems/irc-server-src/password.txt
+ delete mode 100755 problems/irc-server-src/talk-server
+ delete mode 100755 problems/irc-server-src/test-server1.sh
+ delete mode 100755 problems/irc-server-src/test-server10.sh
+ delete mode 100755 problems/irc-server-src/test-server2.sh
+ delete mode 100755 problems/irc-server-src/test-server3.sh
+ delete mode 100755 problems/irc-server-src/test-server4.sh
+ delete mode 100755 problems/irc-server-src/test-server5.sh
+ delete mode 100755 problems/irc-server-src/test-server6.sh
+ delete mode 100755 problems/irc-server-src/test-server7.sh
+ delete mode 100755 problems/irc-server-src/test-server8.sh
+ delete mode 100755 problems/irc-server-src/test-server9.sh
+ delete mode 100755 problems/irc-server-src/testall
+ delete mode 100644 problems/irc-server-src/total.txt
+[master 22a857e] 0 of 100
+ Committer: CS24000 Account <cs240@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 46 insertions(+), 3 deletions(-)
+[master 8b5d947] 0 of 100
+ Committer: CS24000 Account <cs240@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 11 files changed, 320 insertions(+), 463 deletions(-)
+ delete mode 100644 problems/arraylist-src/ListTemplate.h
+ delete mode 100755 problems/arraylist-src/ListTemplateTest
+ delete mode 100644 problems/arraylist-src/ListTemplateTest.cc
+ rewrite problems/arraylist-src/Makefile (69%)
+ rewrite problems/dllist-src/DLList.cpp (73%)
+ rewrite problems/dllist-src/DLList.h (62%)
+ rewrite problems/dllist-src/mytest.c (95%)
+On branch master
+
+Initial commit
+
+Untracked files:
+	../
+	../../testall
+	../../tester/
+	../../totalGrade.txt
+
+nothing added to commit but untracked files present
+On branch master
+
+Initial commit
+
+Untracked files:
+	../
+	../../testall
+	../../tester/
+	../../totalGrade.txt
+
+nothing added to commit but untracked files present
+On branch master
+
+Initial commit
+
+Untracked files:
+	../
+	../../testall
+	../../tester/
+	../../totalGrade.txt
+
+nothing added to commit but untracked files present
+On branch master
+
+Initial commit
+
+Untracked files:
+	../
+	../../testall
+	../../tester/
+	../../totalGrade.txt
+
+nothing added to commit but untracked files present
+On branch master
+
+Initial commit
+
+Untracked files:
+	../
+	../../testall
+	../../tester/
+	../../totalGrade.txt
+
+nothing added to commit but untracked files present
+On branch master
+
+Initial commit
+
+Untracked files:
+	../
+	../../testall
+	../../tester/
+	../../totalGrade.txt
+
+nothing added to commit but untracked files present
+On branch master
+
+Initial commit
+
+Untracked files:
+	../
+	../../testall
+	../../tester/
+	../../totalGrade.txt
+
+nothing added to commit but untracked files present
+On branch master
+
+Initial commit
+
+Untracked files:
+	../
+	../../testall
+	../../tester/
+	../../totalGrade.txt
+
+nothing added to commit but untracked files present
+On branch master
+
+Initial commit
+
+Untracked files:
+	../
+	../../testall
+	../../tester/
+	../../totalGrade.txt
+
+nothing added to commit but untracked files present
+On branch master
+
+Initial commit
+
+Untracked files:
+	../
+	../../testall
+	../../tester/
+	../../totalGrade.txt
+
+nothing added to commit but untracked files present
+On branch master
+
+Initial commit
+
+Untracked files:
+	../
+	../../testall
+	../../tester/
+	../../totalGrade.txt
+
+nothing added to commit but untracked files present
+On branch master
+
+Initial commit
+
+Untracked files:
+	../
+	../../testall
+	../../tester/
+	../../totalGrade.txt
+
+nothing added to commit but untracked files present
+On branch master
+
+Initial commit
+
+Untracked files:
+	../
+	../../testall
+	../../tester/
+	../../totalGrade.txt
+
+nothing added to commit but untracked files present
+On branch master
+
+Initial commit
+
+Untracked files:
+	../
+	../../testall
+	../../tester/
+	../../totalGrade.txt
+
+nothing added to commit but untracked files present
+On branch master
+
+Initial commit
+
+Untracked files:
+	../
+	../../testall
+	../../tester/
+	../../totalGrade.txt
+
+nothing added to commit but untracked files present
+On branch master
+
+Initial commit
+
+Untracked files:
+	../../.local.total.out
+	../
+	../../testall
+	../../tester/
+	../../totalGrade.txt
+
+nothing added to commit but untracked files present
+On branch master
+
+Initial commit
+
+Untracked files:
+	../../.local.total.out
+	../
+	../../testall
+	../../tester/
+	../../totalGrade.txt
+
+nothing added to commit but untracked files present
+On branch master
+
+Initial commit
+
+Untracked files:
+	../../.local.total.out
+	../
+	../../testall
+	../../tester/
+	../../totalGrade.txt
+
+nothing added to commit but untracked files present
+On branch master
+
+Initial commit
+
+Untracked files:
+	../../.local.total.out
+	../
+	../../testall
+	../../tester/
+	../../totalGrade.txt
+
+nothing added to commit but untracked files present
+On branch master
+
+Initial commit
+
+Untracked files:
+	../../.local.total.out
+	../
+	../../testall
+	../../tester/
+	../../totalGrade.txt
+
+nothing added to commit but untracked files present
+On branch master
+
+Initial commit
+
+Untracked files:
+	../../.local.total.out
+	../
+	../../testall
+	../../tester/
+	../../totalGrade.txt
+
+nothing added to commit but untracked files present
+On branch master
+
+Initial commit
+
+Untracked files:
+	../../.local.total.out
+	../
+	../../testall
+	../../tester/
+	../../totalGrade.txt
+
+nothing added to commit but untracked files present
+On branch master
+
+Initial commit
+
+Untracked files:
+	../../.local.total.out
+	../
+	../../testall
+	../../tester/
+	../../totalGrade.txt
+
+nothing added to commit but untracked files present
+On branch master
+
+Initial commit
+
+Untracked files:
+	../../.local.total.out
+	../
+	../../testall
+	../../tester/
+	../../totalGrade.txt
+
+nothing added to commit but untracked files present
+[master (root-commit) a5bbf4f] 0 of 100
+ 4 files changed, 698 insertions(+)
+ create mode 100644 problems/arraylist-src/ArrayList.cpp
+ create mode 100644 problems/arraylist-src/ArrayList.h
+ create mode 100644 problems/arraylist-src/mytest.cpp
+ create mode 100644 problems/arraylist-src/total.out
+[master 7dbbcba] 0 of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 23fa466] 0 of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master (root-commit) 9f9883a] 0 of 100
+ 4 files changed, 698 insertions(+)
+ create mode 100644 ArrayList.cpp
+ create mode 100644 ArrayList.h
+ create mode 100644 mytest.cpp
+ create mode 100644 total.out
+[master 731a0a5] 0 of 100
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[lab6_distribute 11f60d0] 0 of 100
+ Committer: CS24000 Account <cs240@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 9 insertions(+), 6 deletions(-)
+ create mode 100644 lab6-src/problems/arraylist-src/total.out
+[lab6_distribute 878d10c] 0 of 100
+ Committer: CS24000 Account <cs240@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 120 files changed, 27 insertions(+), 11170 deletions(-)
+ delete mode 100644 lab6-src/problems/arraylist-src/Doxyfile
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/_array_list_8cpp.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/_array_list_8cpp_source.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/_array_list_8h.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/_array_list_8h_source.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/annotated.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/arrowdown.png
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/arrowright.png
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/bc_s.png
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/bdwn.png
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/class_array_list-members.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/class_array_list.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/classes.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/closed.png
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/doc.png
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/doxygen.css
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/doxygen.png
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/dynsections.js
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/files.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/folderclosed.png
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/folderopen.png
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/functions.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/functions_func.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/globals.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/globals_func.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/index.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/jquery.js
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/logo.svg
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/mytest_8cpp.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/mytest_8cpp_source.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/nav_f.png
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/nav_g.png
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/nav_h.png
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/open.png
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/pages.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/all_0.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/all_0.js
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/all_1.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/all_1.js
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/all_2.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/all_2.js
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/all_3.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/all_3.js
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/all_4.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/all_4.js
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/all_5.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/all_5.js
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/all_6.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/all_6.js
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/all_7.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/all_7.js
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/all_8.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/all_8.js
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/all_9.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/all_9.js
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/all_a.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/all_a.js
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/classes_0.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/classes_0.js
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/close.png
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/files_0.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/files_0.js
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/files_1.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/files_1.js
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/functions_0.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/functions_0.js
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/functions_1.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/functions_1.js
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/functions_2.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/functions_2.js
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/functions_3.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/functions_3.js
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/functions_4.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/functions_4.js
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/functions_5.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/functions_5.js
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/functions_6.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/functions_6.js
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/functions_7.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/functions_7.js
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/functions_8.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/functions_8.js
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/functions_9.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/functions_9.js
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/functions_a.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/functions_a.js
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/mag_sel.png
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/nomatches.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/pages_0.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/pages_0.js
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/search.css
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/search.js
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/search_l.png
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/search_m.png
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/search_r.png
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/search/searchdata.js
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/splitbar.png
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/sync_off.png
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/sync_on.png
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/tab_a.png
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/tab_b.png
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/tab_h.png
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/tab_s.png
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/tabs.css
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/html/todo.html
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/latex/Makefile
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/latex/_array_list_8cpp.tex
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/latex/_array_list_8h.tex
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/latex/annotated.tex
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/latex/class_array_list.tex
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/latex/doxygen.sty
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/latex/files.tex
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/latex/mytest_8cpp.tex
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/latex/refman.tex
+ delete mode 100644 lab6-src/problems/arraylist-src/doc/latex/todo.tex
+ rewrite lab6-src/problems/arraylist-src/mytest.org (92%)
+[lab6_distribute 1068cff] 0 of 100
+ Committer: CS24000 Account <cs240@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 137 insertions(+), 7 deletions(-)
+ delete mode 100755 lab6-src/problems/mysort-src/test_mysort
+[master cfc8e80] 0 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 8 files changed, 333 insertions(+), 291 deletions(-)
+ delete mode 100644 problems/dllist-src/total.out
+ rewrite problems/mysort-src/mysort.c (78%)
+ rewrite problems/mysort-src/mytest.c (76%)
+ delete mode 100644 problems/mysort-src/total.out
+[master a757eba] 10 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 70 insertions(+), 5 deletions(-)
+[master 86814b7] 50 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 4 insertions(+), 2 deletions(-)
+[master c36376d] 50 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 3 insertions(+), 2 deletions(-)
+[master 55dca44] 40 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 9 insertions(+), 2 deletions(-)
+[master b835f0c] 50 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 8 insertions(+), 8 deletions(-)
+[master ebf772d] 60 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 10 insertions(+), 9 deletions(-)
+[master ef1afcc] 60 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 15 insertions(+), 9 deletions(-)
+[master 9051226] 70 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 5 insertions(+), 2 deletions(-)
+[master e39289f] 70 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 6 insertions(+), 2 deletions(-)
+[master 22610b6] 70 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 4 insertions(+), 4 deletions(-)
+[master 818600b] 70 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+[master 3864d8f] 70 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+[master 86186cd] 70 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+[master a7b1e56] 70 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+[master 26b85cc] 70 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+[master 0a947d9] 70 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 4 insertions(+), 4 deletions(-)
+[master ea8bed6] 70 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 5 insertions(+), 4 deletions(-)
+[master fb8af90] 70 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+[master c85528d] 70 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 5 insertions(+), 1 deletion(-)
+[master 7987f8a] 70 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+[master 0106938] 80 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 8 insertions(+), 2 deletions(-)
+[master 0767155] 70 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 4 insertions(+), 4 deletions(-)
+[master e617fd9] 80 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 3 insertions(+), 3 deletions(-)
+[master 88ac025] 80 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 3 insertions(+), 2 deletions(-)
+[master 8541ad1] 80 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 4 insertions(+), 1 deletion(-)
+[master 3e6370e] 90 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 6 insertions(+), 2 deletions(-)
+[master 1584090] 90 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 2d7afff] 90 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 01a94f4] 90 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 3 insertions(+), 3 deletions(-)
+[master 379589c] 90 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 5 insertions(+), 3 deletions(-)
+[master 2b8c70a] 90 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master e02655a] 100 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 12 insertions(+), 5 deletions(-)
+[master 455d7a5] 100 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 21a668e] 100 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master aa68d7d] 100 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 8 insertions(+), 6 deletions(-)
+[master cf7a181] 100 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 57 insertions(+), 16 deletions(-)
+[master 543a476] 100 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 103aa80] 100 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 21 insertions(+), 18 deletions(-)
+[master 1fef4bc] 100 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 8 insertions(+), 7 deletions(-)
+[master 296972b] 100 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 54 insertions(+), 52 deletions(-)
+[master ae71bd3] 100 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 3 insertions(+), 4 deletions(-)
+[master c66a0db] 100 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 6777c64] 100 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4211a3f] 100 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 90de109] 100 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 5d15bdb] 100 of 100
+ Committer: Anvitha Rayabhari <arayabha@pod5-4.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 61b9d74] 100 of 100
+ Committer: Anvitha Rayabhari <arayabha@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
